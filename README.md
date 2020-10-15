@@ -1,1 +1,3 @@
 # drumkit.github.io
+it's a drumkit set totally based on javaScript .
+I hope u enjoyed it...
